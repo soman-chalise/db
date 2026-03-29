@@ -1,0 +1,71 @@
+================================================================================
+  PROBLEM 3 -- FIBONACCI + FACTORIAL CHALLENGE                        [5 Points]
+================================================================================
+
+  CONCEPTS
+  --------
+
+  FIBONACCI SEQUENCE
+  The Fibonacci sequence is a series of numbers where each term is the
+  sum of the two terms before it. The sequence is 1-indexed as follows:
+
+    Position :  1   2   3   4   5   6  7
+    Value    :  1   1   2   3   5   8  13  
+
+  FACTORIAL
+  The Factorial of a non-negative integer n (written n!) is the product
+  of all positive integers from 1 up to n.
+
+    1! =   1
+    2! =   2
+    3! =   6
+    4! =  24
+    5! = 120
+
+  WHAT THE PROGRAM DOES
+  ----------------------
+  Given an input n, the program:
+
+    Step 1 : Finds the n-th Fibonacci number  -->  call it fibN
+    Step 2 : Computes the Factorial of fibN
+    Step 3 : Prints the result
+
+  Both steps are handled by a single recursive function that uses a
+  flag to switch between the two calculations.
+
+  INPUT FORMAT
+  ------------
+  A single integer n.
+
+  OUTPUT FORMAT
+  -------------
+  A single integer: Factorial( Fibonacci(n) )
+
+  CONSTRAINTS
+  -----------
+  - 1 <= n <= 7
+
+  EXAMPLES
+  --------
+
+  Example 1:
+    Input  : 5
+    Output : 120
+    ( Fibonacci(5) = 5,  Factorial(5) = 120 )
+
+  Example 2:
+    Input  : 6
+    Output : 40320
+    ( Fibonacci(6) = 8,  Factorial(8) = 40320 )
+
+  Example 3:
+    Input  : 4
+    Output : 6
+    ( Fibonacci(4) = 3,  Factorial(3) = 6 )
+
+  Example 4:
+    Input  : 1
+    Output : 1
+    ( Fibonacci(1) = 1,  Factorial(1) = 1 )
+
+================================================================================

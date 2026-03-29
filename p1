@@ -1,0 +1,48 @@
+================================================================================
+  PROBLEM 1 -- VOWEL COUNTER                                          [5 Points]
+================================================================================
+
+  CONCEPT
+  -------
+  Vowels are the letters: a, e, i, o, u (both lowercase and uppercase).
+  Every other letter is a consonant.
+
+  WHAT THE PROGRAM DOES
+  ----------------------
+  The program reads a single line of text, counts how many vowel
+  characters appear in it, and prints the total.
+
+  INPUT FORMAT
+  ------------
+  A single line of text.
+
+  OUTPUT FORMAT
+  -------------
+  Total Vowels: <count>
+
+  CONSTRAINTS
+  -----------
+  - Input length will not exceed 1000 characters.
+  - Both uppercase and lowercase vowels must be counted.
+  - Non-letter characters are not vowels and should be ignored.
+
+  EXAMPLES
+  --------
+
+  Example 1:
+    Input  :  Hello World
+    Output :  Total Vowels: 3
+
+  Example 2:
+    Input  :  Coding Competition
+    Output :  Total Vowels: 6
+
+  Example 3:
+    Input  :  aeiou
+    Output :  Total Vowels: 5
+
+  Example 4:
+    Input  :  rhythm
+    Output :  Total Vowels: 0
+
+================================================================================

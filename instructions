@@ -1,0 +1,94 @@
+================================================================================
+                    DEBUGGING ROUND - OFFICIAL INSTRUCTIONS
+================================================================================
+
+  Time Limit  : 30 Minutes
+  Problems    : 3  (P1, P2, P3)
+  Points Each : 5
+  Total Marks : 15
+
+  Read every rule carefully before you begin.
+
+================================================================================
+  LANGUAGE
+================================================================================
+
+  1. You must work in ONE of the following languages:
+                        C++  |  Java  |  Python
+
+  2. You MAY switch languages mid-round. However:
+       - The 30-minute timer does NOT stop or reset.
+       - Time spent on your previous language is gone.
+       - You must submit the complete set of files for your FINAL language.
+       - Switching is entirely at your own risk.
+
+  3. All three languages are equally difficult. Choose what you know best.
+
+================================================================================
+  SCORING
+================================================================================
+
+  - Each problem is worth 5 points.
+  - Full marks are awarded ONLY if the program produces correct output
+    for ALL test cases. There are no partial marks within a problem.
+  - Problems are scored independently.
+
+================================================================================
+  RULES
+================================================================================
+
+  1. FIX, DON'T REWRITE
+     You must fix the given code. You may NOT rewrite it from scratch
+     or replace the existing logic with a different approach.
+     The original algorithm must remain intact.
+
+  2. NO NEW BUILT-IN FUNCTIONS OR LIBRARIES
+     You may only use built-in functions or library calls that are
+     ALREADY present in the original buggy code.
+     Adding new ones to solve the problem is not allowed.
+     This rule applies equally to all languages -- no exceptions.
+     Standard input/output functions are always permitted.
+
+  3. NO ALTERNATIVE ALGORITHMS
+     The algorithm used in each program is fixed. You must debug that
+     specific algorithm. Replacing it with any other approach -- even
+     one that gives the correct output -- will result in zero for
+     that problem.
+
+================================================================================
+  SUBMISSIONS
+================================================================================
+
+  - Submit all 3 files for your chosen language before the timer ends.
+  - Only your last submission per problem will be evaluated.
+  - Ensure your code compiles and runs without errors before submitting.
+
+================================================================================
+  PROHIBITED CONDUCT
+================================================================================
+
+  The following will result in immediate disqualification:
+
+    - Communicating with any other participant.
+    - Using AI tools or code assistants of any kind.
+    - Using online compilers that suggest or auto-correct code.
+    - Sharing or copying code.
+    - Mobile phones or smartwatches during the round.
+
+================================================================================
+  PROBLEMS
+================================================================================
+
+  Details for each problem are in the following files:
+
+    P1 -- p1.txt   (Vowel Counter)
+    P2 -- p2.txt   (Binary Search)
+    P3 -- p3.txt   (Fibonacci + Factorial Challenge)
+
+  Read the problem file for your task, expected input/output format,
+  and examples before looking at the code.
+
+================================================================================
+  If you have any questions, raise your hand and wait for an invigilator.
+              Good luck -- read carefully, and think before you change.
+================================================================================

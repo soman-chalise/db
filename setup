@@ -1,0 +1,9 @@
+sudo apt install g++
+sudo apt install default-jdk
+Sudo apt install python3  -y
+
+python --version
+g++ --version
+java -version
+
+./code_*.deb
