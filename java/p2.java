@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Searcher {
+public class p2 {
     public static int binarySearch(int[] arr, int target) {
         int low = 0;
         int high = arr.length - 1;
