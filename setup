@@ -7,3 +7,4 @@ g++ --version
 java -version
 
 ./code_*.deb
+sudo dpkg -i code_1.113.0-1774364744_amd64.deb
