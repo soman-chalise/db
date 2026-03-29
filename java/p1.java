@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VowelCounter {
+public class p1{
     public static String countVowels(String text) {
         int count = 0;
         String vowels = "aejouAETOU";
